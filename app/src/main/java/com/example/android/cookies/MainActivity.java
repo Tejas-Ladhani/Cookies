@@ -1,3 +1,4 @@
+//Adding comment here 
 package com.example.android.cookies;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -8,6 +9,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+//Main Activity
 public class MainActivity extends AppCompatActivity {
 
     @Override
